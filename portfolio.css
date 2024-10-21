@@ -1,0 +1,21 @@
+body{ font-family: "Open Sans", sans-serif;}
+#nn{color:#FD6E0A;}
+.ss{display: flex;
+font-size: 45px;
+font-weight: 800;}
+nav{display: flex;
+align-items: center;
+justify-content: space-between;}
+nav > ul{display: flex;
+align-items: center;}
+nav li{list-style: none;
+margin-right: 50px;}
+nav a { text-decoration: none;
+color: #474747;}
+#ww{background-color: #FD6E0A;
+border-radius: 5px;
+border: 0px;
+color: white;
+font-weight: 700;
+font-size: 20px;
+padding: 15px 35px;}
