@@ -101,6 +101,26 @@ main section{
     font-weight: 700;
 }
 .resumi-continer{
-    /* display: flex; */
+    display: flex; 
+    gap: 50px;
     
+}
+.resumi-description, .resumi-item-ins{
+    color: #757575;
+}
+.resumi-item-titel{color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resumi-continer hr{
+    margin: 30px;
+}
+.resumi-item-ins{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.dawnlodcv{
+    text-align: center;
+    margin-top: 50px;
 }
